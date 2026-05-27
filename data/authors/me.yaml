@@ -140,7 +140,7 @@ skills:
         level: 5
       - label: Azure
         level: 3
-        
+      
 
 languages:
   - name: English
@@ -152,41 +152,6 @@ languages:
   - name: French
     level: 3
     label: Advanced
-
-experience:
-  - role: Jr. AI, Security, and Automation Analyst 
-    org: City of Hamilton
-    start: 2025-09-01
-    end: 2026-05-31
-    summary: |
-      ▸	Designed and delivered Power Platform solutions (Power Automate, Power Apps) automating recurring operational workflows, reducing manual data-entry effort across multiple departments.
-      ▸	Built Copilot Studio integrations to streamline knowledge workflows and extend automation capabilities across Microsoft 365 services.
-      ▸	Developed and maintained connectors and pipelines (Dataverse, SharePoint, Teams, Graph API) enabling reliable, real-time data flows between internal systems.
-      ▸	Authored governance and ALM policies for Power Platform deployments, including solution packaging, environment strategy, and rollback procedures, reducing deployment risk.
-      ▸	Performed root-cause analysis on automation incidents; implemented preventive controls that reduced recurrence and improved SLA compliance.
-      ▸	Produced technical documentation and runbooks for automated processes and Copilot configurations to support maintainability and team handover.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: Software Engineer
-    org: Infinti Electro Optics
-    start: 2023-11-01
-    end: 2024-10-31
-    summary: |
-      ▸	Integrated embedded systems with Ethernet and RS485 serial networks, designing communication layers optimized for low-latency data exchange in field-deployed hardware.
-      ▸	Implemented a structured logging system on an ARM Cortex-M controller using a 256-byte circular buffer and compact binary format, cutting log overhead while preserving actionable debug traces.
-      ▸	Automated JTAG/GDB test scripts to reproduce firmware faults and capture trace dumps, accelerating defect resolution cycles.
-      ▸	Configured and validated network infrastructure (managed switches, VLANs, Wi-Fi) ensuring correct device segmentation and secure device-to-device communication.
-      ▸	Led firmware optimization for system compatibility and cost efficiency; proactively resolved potential issues before hardware assembly, reducing rework.
-      ▸	Performed network diagnostics using Wireshark and custom logging tools to isolate packet loss, latency spikes, and configuration faults.
-  - role: Software Engineering Intern
-    org: RadicalX
-    start: 2023-10-01
-    end: 2023-12-16
-    summary: |
-      ▸	Contributed features to the RadicalX platform including the Missions module, subscription/payout systems, and AI Manager integration using Agile sprint cycles.
-      ▸	Delivered consistent, review-ready code across sprints; provided peer code reviews and collaborated cross-functionally to unblock team members and maintain velocity.
 
 certifications:
   - role: PCEP Certified Entry-Level Python Programmer
