@@ -2,18 +2,16 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Juan Leal
+  given: Juan
+  family: Leal
   alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  pronunciation: 'Who-on Lee-all'  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Comuter Engineer
 bio: |
   Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
   has been published in top conferences like NeurIPS and ICML, with over
@@ -26,44 +24,28 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:juanesleal99@gmail.com
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/juanesleal
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/juanesleal
 
 interests:
   - Large Language Models
   - Computer Vision
   - Reinforcement Learning
-  - AI Ethics
+  - AI 
+  - Embedded Programming and Development
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: Bachelors Degree Computer Systems Engineering
+    institution: Carleton University
+    start: 2017-09-01
+    end: 2023-06-21
+
 
 experience:
   - role: Senior AI Research Scientist
@@ -105,12 +87,9 @@ languages:
     level: 5
     label: Native
   - name: Spanish
-    level: 4
-    label: Fluent
+    level: 5
+    label: Native
+  - name: French
+    level: 3
+    label: Advanced
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
