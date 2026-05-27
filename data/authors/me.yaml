@@ -146,12 +146,3 @@ languages:
   - name: French
     level: 3
     label: Advanced
-
-certifications:
-  - role: PCEP Certified Entry-Level Python Programmer
-    start: 2025-09-01
-  - role: WHMIS Certification
-    start: 2025-09-01
-  - role: Health and Safety Certification 
-    start: 2025-09-01
-   
