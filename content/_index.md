@@ -33,8 +33,7 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  
-    design:
+      
       card:
         # Card background color (CSS class)
         css_class: 'bg-primary-300 dark:bg-primary-700'
